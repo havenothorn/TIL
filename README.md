@@ -2,7 +2,7 @@
 
 > 멘토링 과정에서 익힌 책과 이론, 꼬리물기 기록을 정리합니다. 
 
-[Velog 블로그](https://velog.io/@chocoallergie/)의 경우 문제 해결 경험 및 생각을 공유합니다.
+[Velog 블로그](https://velog.io/@chocoallergie/)의 경우 문제 해결 경험, 질의응답 및 생각을 공유합니다.
 
 __도서 목록__
 - 모던 웹을 위한 HTML5+CSS3 바이블
