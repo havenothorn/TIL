@@ -94,7 +94,8 @@ __CSS 꼬리물기 질문__
 !important > id [100] > class [10] > tag [1] > * [0]
 ```
 
-## ✅ 참조
+----
+### ✅ 참조
 - [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
 - [브라우저 작동방식 탐구 - CSS 파서(Parser) 구현하기](https://url.kr/xqogke)
 - [브라우저 동작 과정](https://yozm.wishket.com/magazine/detail/1338/)
