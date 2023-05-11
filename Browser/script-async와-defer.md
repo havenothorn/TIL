@@ -70,7 +70,7 @@ addEventListener("DOMContentLoaded", (event) => {});
 onDOMContentLoaded = (event) => {};
 ```
 
-### ✅ 참조
+## ✅ 참조
 - [렌더 블로킹](https://velog.io/@soorokim/Render-Blocking)
 - [스크립트 실행 시점을 조절하는 async/defer](https://wormwlrm.github.io/2021/03/01/Async-Defer-Attributes-of-Script-Tag.html) 
 - [defer, async](https://ko.javascript.info/script-async-defer)
