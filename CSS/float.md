@@ -22,5 +22,5 @@ float: right;
 
 ----
 ### ✅ 참조
-[무엇이 제일 나은 float 해제 기법인가?](https://selosele.github.io/2020/07/21/clearfix/)
-[float - Mozilla](https://developer.mozilla.org/ko/docs/Web/CSS/float) 
+- [무엇이 제일 나은 float 해제 기법인가?](https://selosele.github.io/2020/07/21/clearfix/)
+- [float - Mozilla](https://developer.mozilla.org/ko/docs/Web/CSS/float) 
